@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\bar.o
+./debug\ball.o
+./debug\rocks.o
+./debug\easymusic.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_bar.o
+./debug\moc_ball.o
+./debug\moc_rocks.o
+);
